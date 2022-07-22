@@ -1,0 +1,1297 @@
+{
+    "/home/meiying/ros_devel_ws/src/learn_affordance_tamp/tamp/examples/pybullet/utils/models/meiying_tunnel_chain.ply": [
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.0, 
+                0.0, 
+                0.1
+            ], 
+            "extent": [
+                0.25, 
+                0.3, 
+                0.01
+            ]
+        }, 
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.0, 
+                -0.15, 
+                0.05
+            ], 
+            "extent": [
+                0.25, 
+                0.01, 
+                0.1
+            ]
+        }, 
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.0, 
+                0.15, 
+                0.05
+            ], 
+            "extent": [
+                0.25, 
+                0.01, 
+                0.1
+            ]
+        }
+    ], 
+    "/home/meiying/ros_devel_ws/src/learn_affordance_tamp/tamp/examples/pybullet/utils/models/meiying_large_red_screwdriver.ply": [
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "extent": [
+                0.3712472, 
+                0.06809244, 
+                0.06384508
+            ]
+        }
+    ], 
+    "/home/meiying/ros_devel_ws/src/learn_affordance_tamp/tamp/examples/pybullet/utils/models/meiying_occluder.ply": [
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.0, 
+                0.0, 
+                0.125
+            ], 
+            "extent": [
+                0.25, 
+                0.25, 
+                0.01
+            ]
+        }, 
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                -0.125, 
+                0.0, 
+                0.0
+            ], 
+            "extent": [
+                0.01, 
+                0.25, 
+                0.25
+            ]
+        }, 
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.125, 
+                0.0, 
+                0.0
+            ], 
+            "extent": [
+                0.01, 
+                0.25, 
+                0.25
+            ]
+        }, 
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.0, 
+                -0.125, 
+                0.0
+            ], 
+            "extent": [
+                0.25, 
+                0.01, 
+                0.25
+            ]
+        }, 
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.0, 
+                0.125, 
+                0.0
+            ], 
+            "extent": [
+                0.25, 
+                0.01, 
+                0.25
+            ]
+        }
+    ], 
+    "/home/meiying/ros_devel_ws/src/learn_affordance_tamp/tamp/examples/pybullet/utils/models/meiying_tunnel_chain_affordance.ply": [
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.0, 
+                0.0, 
+                0.1
+            ], 
+            "extent": [
+                0.2, 
+                0.3, 
+                0.01
+            ]
+        }, 
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.0, 
+                -0.15, 
+                0.05
+            ], 
+            "extent": [
+                0.2, 
+                0.01, 
+                0.1
+            ]
+        }, 
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.0, 
+                0.15, 
+                0.05
+            ], 
+            "extent": [
+                0.2, 
+                0.01, 
+                0.1
+            ]
+        }
+    ], 
+    "/home/meiying/ros_devel_ws/src/learn_affordance_tamp/tamp/examples/pybullet/utils/models/meiying_L_pull_tool_old.ply": [
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                -0.065, 
+                0.0, 
+                0.055
+            ], 
+            "extent": [
+                0.049, 
+                0.249, 
+                0.049
+            ]
+        }, 
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.13499999999999998, 
+                0.1, 
+                0.055
+            ], 
+            "extent": [
+                0.349, 
+                0.049, 
+                0.049
+            ]
+        }
+    ], 
+    "/home/meiying/ros_devel_ws/src/learn_affordance_tamp/tamp/examples/pybullet/utils/models/meiying_T_push_tool.ply": [
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                -0.025, 
+                0.0, 
+                0.0
+            ], 
+            "extent": [
+                0.049, 
+                0.249, 
+                0.049
+            ]
+        }, 
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                -0.2, 
+                0.0, 
+                0.0
+            ], 
+            "extent": [
+                0.349, 
+                0.049, 
+                0.049
+            ]
+        }
+    ], 
+    "/home/meiying/ros_devel_ws/src/learn_affordance_tamp/tamp/examples/pybullet/utils/models/meiying_short_floor.ply": [
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.0, 
+                0.0, 
+                -0.05
+            ], 
+            "extent": [
+                1.999, 
+                1.999, 
+                0.099
+            ]
+        }
+    ], 
+    "/home/meiying/ros_devel_ws/src/learn_affordance_tamp/tamp/examples/pybullet/utils/models/meiying_tool_target.ply": [
+        {
+            "r": [
+                [
+                    0.0, 
+                    -0.5631968487109689, 
+                    -0.8263227635748843
+                ], 
+                [
+                    0.0, 
+                    0.8263227635748842, 
+                    -0.5631968487109688
+                ], 
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            ], 
+            "center": [
+                -2.3722866713941394e-07, 
+                -2.128836532160061e-07, 
+                3.469446951953614e-18
+            ], 
+            "extent": [
+                0.199, 
+                0.07899996228295751, 
+                0.07899727824948012
+            ]
+        }
+    ], 
+    "/home/meiying/ros_devel_ws/src/learn_affordance_tamp/tamp/examples/pybullet/utils/models/drake/objects/meiying_block_for_pick_and_place_mid_size.ply": [
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "extent": [
+                0.059, 
+                0.089, 
+                0.199
+            ]
+        }
+    ], 
+    "/home/meiying/ros_devel_ws/src/learn_affordance_tamp/tamp/examples/pybullet/utils/models/drake/objects/meiying_block_for_pick_and_place_mid_size_cyan.ply": [
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "extent": [
+                0.059, 
+                0.089, 
+                0.199
+            ]
+        }
+    ], 
+    "/home/meiying/ros_devel_ws/src/learn_affordance_tamp/tamp/examples/pybullet/utils/models/meiying_L_push_tool_old.ply": [
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                -0.065, 
+                0.0, 
+                0.055
+            ], 
+            "extent": [
+                0.049, 
+                0.249, 
+                0.049
+            ]
+        }, 
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                -0.24000000000000002, 
+                -0.1, 
+                0.055
+            ], 
+            "extent": [
+                0.349, 
+                0.049, 
+                0.049
+            ]
+        }
+    ], 
+    "/home/meiying/ros_devel_ws/src/learn_affordance_tamp/tamp/examples/pybullet/utils/models/meiying_sink.ply": [
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.0, 
+                0.0, 
+                0.025
+            ], 
+            "extent": [
+                0.249, 
+                0.249, 
+                0.049
+            ]
+        }
+    ], 
+    "/home/meiying/ros_devel_ws/src/learn_affordance_tamp/tamp/examples/pybullet/utils/models/meiying_L_push_tool.ply": [
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                -0.065, 
+                0.0, 
+                0.0
+            ], 
+            "extent": [
+                0.049, 
+                0.249, 
+                0.049
+            ]
+        }, 
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                -0.24000000000000002, 
+                -0.1, 
+                0.0
+            ], 
+            "extent": [
+                0.349, 
+                0.049, 
+                0.049
+            ]
+        }
+    ], 
+    "/home/meiying/ros_devel_ws/src/learn_affordance_tamp/tamp/examples/pybullet/utils/models/meiying_long_obstacle.ply": [
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                -0.525, 
+                0.0, 
+                0.5
+            ], 
+            "extent": [
+                0.95, 
+                0.02, 
+                1.0
+            ]
+        }, 
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.0, 
+                0.0, 
+                0.55
+            ], 
+            "extent": [
+                0.1, 
+                0.02, 
+                0.9
+            ]
+        }, 
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.525, 
+                0.0, 
+                0.5
+            ], 
+            "extent": [
+                0.95, 
+                0.02, 
+                1.0
+            ]
+        }
+    ], 
+    "/home/meiying/ros_devel_ws/src/learn_affordance_tamp/tamp/examples/pybullet/utils/models/meiying_stove.ply": [
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.0, 
+                0.0, 
+                0.025
+            ], 
+            "extent": [
+                0.249, 
+                0.249, 
+                0.049
+            ]
+        }
+    ], 
+    "/home/meiying/ros_devel_ws/src/learn_affordance_tamp/tamp/examples/pybullet/utils/models/meiying_L_pull_tool.ply": [
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                -0.065, 
+                0.0, 
+                0.0
+            ], 
+            "extent": [
+                0.049, 
+                0.249, 
+                0.049
+            ]
+        }, 
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.13499999999999998, 
+                0.1, 
+                0.0
+            ], 
+            "extent": [
+                0.349, 
+                0.049, 
+                0.049
+            ]
+        }
+    ], 
+    "/home/meiying/ros_devel_ws/src/learn_affordance_tamp/tamp/examples/pybullet/utils/models/drake/objects/meiying_block_for_pick_and_place_short_huge.ply": [
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "extent": [
+                0.199, 
+                0.199, 
+                0.099
+            ]
+        }
+    ], 
+    "/home/meiying/ros_devel_ws/src/learn_affordance_tamp/tamp/examples/pybullet/utils/models/meiying_duck.ply": [
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "extent": [
+                0.124472, 
+                0.123432, 
+                0.106928
+            ]
+        }
+    ], 
+    "/home/meiying/ros_devel_ws/src/learn_affordance_tamp/tamp/examples/pybullet/utils/models/meiying_T_push_tool_old.ply": [
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                -0.025, 
+                0.0, 
+                0.055
+            ], 
+            "extent": [
+                0.049, 
+                0.249, 
+                0.049
+            ]
+        }, 
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                -0.2, 
+                0.0, 
+                0.055
+            ], 
+            "extent": [
+                0.349, 
+                0.049, 
+                0.049
+            ]
+        }
+    ], 
+    "/home/meiying/ros_devel_ws/src/learn_affordance_tamp/tamp/examples/pybullet/utils/models/meiying_L_chain_pull_tool.ply": [
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                -0.175, 
+                0.0, 
+                0.0
+            ], 
+            "extent": [
+                0.049, 
+                0.249, 
+                0.049
+            ]
+        }, 
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.025, 
+                0.1, 
+                0.0
+            ], 
+            "extent": [
+                0.349, 
+                0.049, 
+                0.049
+            ]
+        }
+    ], 
+    "/home/meiying/ros_devel_ws/src/learn_affordance_tamp/tamp/examples/pybullet/utils/models/meiying_plunger.ply": [
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                -0.0002294999999999936, 
+                0.0007273500000000016, 
+                -0.00024970000000000027
+            ], 
+            "extent": [
+                0.339843, 
+                0.1641883, 
+                0.060445200000000004
+            ]
+        }
+    ], 
+    "/home/meiying/ros_devel_ws/src/learn_affordance_tamp/tamp/examples/pybullet/utils/models/meiying_tunnel.ply": [
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.0, 
+                0.0, 
+                0.25
+            ], 
+            "extent": [
+                0.2, 
+                0.3, 
+                0.01
+            ]
+        }, 
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.0, 
+                -0.15, 
+                0.125
+            ], 
+            "extent": [
+                0.2, 
+                0.01, 
+                0.25
+            ]
+        }, 
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.0, 
+                0.15, 
+                0.125
+            ], 
+            "extent": [
+                0.2, 
+                0.01, 
+                0.25
+            ]
+        }
+    ], 
+    "/home/meiying/ros_devel_ws/src/learn_affordance_tamp/tamp/examples/pybullet/utils/models/drake/objects/meiying_block_for_pick_and_place_short.ply": [
+        {
+            "r": [
+                [
+                    0.0, 
+                    -1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ], 
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ]
+            ], 
+            "center": [
+                0.0, 
+                0.0, 
+                -1.734723475976807e-18
+            ], 
+            "extent": [
+                0.099, 
+                0.059, 
+                0.059
+            ]
+        }
+    ], 
+    "/home/meiying/ros_devel_ws/src/learn_affordance_tamp/tamp/examples/pybullet/utils/models/drake/objects/meiying_block_for_pick_and_place.ply": [
+        {
+            "r": [
+                [
+                    1.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    1.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ], 
+            "center": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "extent": [
+                0.059, 
+                0.059, 
+                0.199
+            ]
+        }
+    ]
+}

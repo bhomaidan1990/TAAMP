@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<robot name="push_tool">
+  <link name="base_link">
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file:///home/meiying/ros_devel_ws/src/learn_affordance_tamp/tamp/examples/pybullet/utils/models/meiying_T_push_tool_old.obj" />
+      </geometry>
+      <material name="dark_green">
+        <color rgba="0 0.392 0 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="file:///home/meiying/ros_devel_ws/src/learn_affordance_tamp/tamp/examples/pybullet/utils/models/meiying_T_push_tool_old.obj" />
+      </geometry>
+    </collision>
+  </link>
+</robot>
